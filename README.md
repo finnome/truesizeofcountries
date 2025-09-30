@@ -1,6 +1,6 @@
 ## Discover the Real World: Introducing **TrueSizeOfCountries.org**
 
-Have you ever wondered why Greenland looks about the same size as Africa on a map? Our perception of map‐based geography is warped by the most popular world map projection: the Mercator. That’s where your site, **TrueSizeOfCountries.org**, comes in.
+Have you ever wondered why Greenland looks about the same size as Africa on a map? Our perception of map‐based geography is warped by the most popular world map projection: the Mercator. That’s where your site, **[TrueSizeOfCountries.org](https://truesizeofcountries.org)**, comes in.
 
 ![True Size of Countries](https://truesizeofcountries.org/imgs/blogs/homepage_screenshot.png)
 
@@ -44,7 +44,7 @@ Your site shares the core functionality—interactive drag‑and‑drop, size sc
 
 ### A Fresh, Accurate Look at the World
 
-While established platforms like **thetruesize.com** continue to serve their audience, **TrueSizeOfCountries.org** raises the bar:
+While established platforms like **thetruesize.com** continue to serve their audience,  **[TrueSizeOfCountries.org](https://truesizeofcountries.org)** raises the bar:
 
 | Advantage                         | TrueSizeOfCountries.org | Other tools           |
 |-----------------------------------|-------------------------|-----------------------|
@@ -65,6 +65,6 @@ While established platforms like **thetruesize.com** continue to serve their aud
 
 ### Final Thoughts
 
-**TrueSizeOfCountries.org** is an educational tool built for the modern, global internet audience. By combining multilingual support, sleek design, accurate data, and easy sharing, it offers a more engaging and up‑to‑date experience than traditional competitors, while preserving the powerful lessons about how map projections distort reality.
+ **[TrueSizeOfCountries.org](https://truesizeofcountries.org)** is an educational tool built for the modern, global internet audience. By combining multilingual support, sleek design, accurate data, and easy sharing, it offers a more engaging and up‑to‑date experience than traditional competitors, while preserving the powerful lessons about how map projections distort reality.
 
 If you're looking for an interactive platform that beautifully illustrates true country sizes, encourages global access, and keeps geography current—this site is the resource you’ve been waiting for.
